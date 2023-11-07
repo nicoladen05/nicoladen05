@@ -1,9 +1,6 @@
 Hi 👋 My name is nicoladen05
 ============================* 🌍  I'm based in Germany
 
-<a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 
